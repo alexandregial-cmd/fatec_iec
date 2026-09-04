@@ -6,7 +6,7 @@ jobs:
   ci-continuos-integration:
     name: Teste de CI
     runs-on: ubuntu-22.04
-    steps: 
+    steps:
        -run: echo "Olá , Fatec!"
        name: Mensagem de saudação
       
